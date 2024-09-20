@@ -1,0 +1,19 @@
+{
+  "users": {
+    "kalai": {
+      "roles": [
+        "admin"
+      ]
+    },
+    "bob": {
+      "roles": [
+        "employee"
+      ]
+    },
+    "eve": {
+      "roles": [
+        "guest"
+      ]
+    }
+  }
+}
